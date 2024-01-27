@@ -1,0 +1,38 @@
+html {
+    font-family: "Times New Roman", Times, serif;
+    background: #000000;
+    min-height: 100%;
+}
+
+.button {
+    color: #d0d0d0;
+    margin-bottom: 10px;
+    cursor: move;
+}
+
+.selected {
+    color: #00d000;
+}
+
+.screen {
+    color: #d0d0d0;
+}
+
+#buttons {
+    float: left;
+    position: relative;
+    display: block;
+}
+
+#screens {
+    position: fixed;
+    left: 100px;
+}
+
+#img {
+    width: 100%
+}
+
+#content {
+    position: relative;
+}
