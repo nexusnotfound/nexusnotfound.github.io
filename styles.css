@@ -36,3 +36,8 @@ html {
 #content {
     position: relative;
 }
+
+.project_link {
+    color: #5b98d1;
+    display: block
+}
